@@ -1,0 +1,7 @@
+- LICENSE.md
+- README.md
+- MANIFEST.md
+- momdescso3.jl
+- rosenbrock.jl
+- so3.jl
+- test_momdescso3.jl
