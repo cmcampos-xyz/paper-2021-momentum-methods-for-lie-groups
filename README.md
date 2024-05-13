@@ -22,13 +22,13 @@ Instructions:
    The script will reproduce the last set experiment or, by default, the one
    corresponding to Fig. 5.2 in [1]. To set a particular experiment, set the
    variable `example` to a value among 11, 12, 21, 22, 31, or 32, like so:
-   ```
+   ```julia
    example = 21; include("test_momdescso3.jl")
    ```
 
 References:
 
-[1] C.M. Campos, D. Martín de Diego, J. Torrente
+[1] C.M. Campos, D. Martín de Diego, J. Torrente  
     Momentum-based gradient descent methods for Lie groups
 
 Copyright 2021-2024 Cédric M. Campos
