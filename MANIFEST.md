@@ -1,7 +1,7 @@
-- LICENSE.md
-- README.md
-- MANIFEST.md
-- momdescso3.jl
-- rosenbrock.jl
-- so3.jl
-- test_momdescso3.jl
+- LICENSE.md: license
+- README.md: instructions
+- MANIFEST.md: this file
+- momdescso3.jl: momentum methods
+- rosenbrock.jl: Rosenbrock function
+- so3.jl: utilitary functions in SO(3)
+- test_momdescso3.jl: test script
